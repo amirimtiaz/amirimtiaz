@@ -1,21 +1,10 @@
-# Hi, I'm Amir! 👋
+# Hi, I'm Amir! 👋 Welcome to my profile!
 
-### Computer Systems & Information Technology + AI @ The University of Texas at Dallas
+### Computer Information Systems Technology + AI (Artificial Intelligence) @ The University of Texas at Dallas
 
 I'm passionate about building technology that solves real-world problems through product thinking, artificial intelligence, data analytics, and software.
 
 Currently, I'm focused on building projects that combine business strategy with technical implementation while exploring Product Management, AI, Cloud, and Data.
-
----
-
-## 🚀 Current Focus
-
-- 🤖 Building AI-powered applications
-- 📊 Data Analytics & Visualization
-- ☁️ Cloud Technologies (Azure & AWS)
-- 💡 Product Management
-- 📈 Enterprise Software
-- 🧠 Machine Learning
 
 ---
 
@@ -45,7 +34,7 @@ Currently, I'm focused on building projects that combine business strategy with 
 
 ---
 
-## 🌱 Interests
+## Interests
 
 - Product Management
 - Artificial Intelligence
@@ -58,9 +47,9 @@ Currently, I'm focused on building projects that combine business strategy with 
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-🚧 Coming soon...
+Coming soon...
 
 - AI Business Assistant
 - Enterprise Supply Chain Intelligence Platform
@@ -69,10 +58,11 @@ Currently, I'm focused on building projects that combine business strategy with 
 
 ---
 
-## 📫 Connect
+## Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/amir-imtiaz-flm
-- 📧 Email: amirimtiazflm@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-imtiaz-flm)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirimtiazflm@gmail.com)
 
 ---
 
