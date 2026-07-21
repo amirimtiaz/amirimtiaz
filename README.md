@@ -1,4 +1,82 @@
-## Hi there 👋
+# Hi, I'm Amir! 👋
+
+### Computer Systems & Information Technology + AI @ The University of Texas at Dallas
+
+I'm passionate about building technology that solves real-world problems through product thinking, artificial intelligence, data analytics, and software.
+
+Currently, I'm focused on building projects that combine business strategy with technical implementation while exploring Product Management, AI, Cloud, and Data.
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 Building AI-powered applications
+- 📊 Data Analytics & Visualization
+- ☁️ Cloud Technologies (Azure & AWS)
+- 💡 Product Management
+- 📈 Enterprise Software
+- 🧠 Machine Learning
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Data & Analytics
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### AI & Cloud
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🌱 Interests
+
+- Product Management
+- Artificial Intelligence
+- Data Engineering
+- Data Analytics
+- Enterprise Software
+- Cloud Computing
+- Technology Strategy
+- Automation
+
+---
+
+## 📌 Featured Projects
+
+🚧 Coming soon...
+
+- AI Business Assistant
+- Enterprise Supply Chain Intelligence Platform
+- Product Analytics Dashboard
+- Borderless
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/amir-imtiaz-flm
+- 📧 Email: amirimtiazflm@gmail.com
+
+---
+
+> *"Building technology that creates measurable impact."*
 
 <!--
 **amirimtiaz/amirimtiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
