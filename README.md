@@ -4,8 +4,6 @@
 
 I'm passionate about building technology that solves real-world problems through product thinking, artificial intelligence, data analytics, and software.
 
-Currently, I'm focused on building projects that combine business strategy with technical implementation while exploring Product Management, AI, Cloud, and Data.
-
 ---
 
 ## Connect (Socials)
