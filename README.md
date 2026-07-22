@@ -1,6 +1,6 @@
 # Hi, I'm Amir! 👋 Welcome to my profile!
 
-### Computer Systems & Information Technology + AI (Artificial Intelligence) @ The University of Texas at Dallas
+### Computer Science + Business Economics @ The University of Texas at Dallas
 
 I'm passionate about building technology that solves real-world problems through product thinking, artificial intelligence, data analytics, and software.
 
