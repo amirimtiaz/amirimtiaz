@@ -114,7 +114,7 @@ Applied analytics to procurement and logistics operations during my Data Analyst
 </td>
 <td width="20%" align="center" valign="top">
 <br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/IMC_Logo.svg" width="155" height="58" alt="IMC Trading logo"/><br/><br/>
+<img src="./assets/imc.svg" width="155" height="58" alt="IMC Trading logo"/><br/><br/>
 <b>IMC Trading</b><br/>
 <sub><b>U.S. Chess Academy</b></sub><br/>
 <sub>Qualifier &amp; Finalist</sub><br/><br/>
@@ -197,7 +197,7 @@ I'm drawn to opportunities where **AI, data, and genuine human insight** come to
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir_Imtiaz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-imtiaz-flm)
 [![Email](https://img.shields.io/badge/Email-amirimtiazflm%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirimtiazflm@gmail.com)
-<a href="https://portfolio-amir-imtiaz.vercel.app"><img width="270" src="https://img.shields.io/badge/OPEN_MY_FULL_PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Amir Imtiaz's full portfolio"/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6D28D9?style=flat&logo=vercel&logoColor=white)](https://portfolio-amir-imtiaz.vercel.app)
 
 <div align="center">
 
