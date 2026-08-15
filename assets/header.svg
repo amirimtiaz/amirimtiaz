@@ -1,75 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Amir Imtiaz — AI-Native Technical Builder, Systems Problem Solver, Product Thinker">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Amir Imtiaz — AI-Native Technical Builder, Systems Problem Solver, Product Thinker">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop stop-color="#030712"/>
-    <stop offset=".58" stop-color="#080d1c"/>
-    <stop offset="1" stop-color="#100b24"/>
+    <stop offset="1" stop-color="#0b1020"/>
   </linearGradient>
   <linearGradient id="accent" x1="0" x2="1">
     <stop stop-color="#38bdf8"/>
-    <stop offset=".52" stop-color="#6366f1"/>
+    <stop offset=".55" stop-color="#6366f1"/>
     <stop offset="1" stop-color="#8b5cf6"/>
   </linearGradient>
-  <radialGradient id="halo">
-    <stop stop-color="#6366f1" stop-opacity=".2"/>
-    <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
-  </radialGradient>
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="4" result="b"/>
-    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
 </defs>
 
-<rect width="1200" height="330" rx="22" fill="url(#bg)"/>
-<rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="#1e293b"/>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="298" rx="19" fill="none" stroke="#1e293b"/>
 
-<circle cx="1065" cy="55" r="230" fill="#4f46e5" opacity=".055"/>
-<circle cx="75" cy="345" r="190" fill="#0891b2" opacity=".04"/>
+<g transform="translate(78 57)">
+  <text x="0" y="24" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2">HELLO, I'M</text>
 
-<g transform="translate(72 54)">
-  <g>
-    <circle cx="6" cy="6" r="5" fill="#38bdf8" filter="url(#glow)">
-      <animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/>
-    </circle>
-    <text x="23" y="11" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="2.1">DALLAS, TEXAS · BUILDING AT THE EDGE OF TECHNOLOGY + PEOPLE</text>
-  </g>
+  <text x="0" y="101" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-2.5">Amir Imtiaz</text>
 
-  <text x="0" y="104" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="-2.4">Amir Imtiaz</text>
-  <text x="2" y="141" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="500">Building intelligent products from insight to impact.</text>
+  <text x="2" y="140" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400">Building intelligent products from insight to impact.</text>
 
-  <rect x="2" y="170" width="658" height="2" rx="1" fill="url(#accent)" opacity=".85"/>
+  <rect x="2" y="165" width="620" height="2.5" rx="2" fill="url(#accent)"/>
 
-  <text x="2" y="211" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650">AI-Native Technical Builder</text>
-  <circle cx="252" cy="205" r="2.5" fill="#475569"/>
-  <text x="269" y="211" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650">Systems Problem Solver</text>
-  <circle cx="505" cy="205" r="2.5" fill="#475569"/>
-  <text x="522" y="211" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650">Product Thinker</text>
-
-  <text x="2" y="250" fill="#475569" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="2">PRODUCT  /  DATA  /  AI  /  ENGINEERING</text>
+  <text x="2" y="207" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">AI-Native Technical Builder</text>
+  <text x="244" y="207" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">•</text>
+  <text x="262" y="207" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Systems Problem Solver</text>
+  <text x="494" y="207" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">•</text>
+  <text x="512" y="207" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Product Thinker</text>
 </g>
 
-<g transform="translate(1010 165)">
-  <circle r="118" fill="url(#halo)">
-    <animate attributeName="opacity" values=".55;.9;.55" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="87" fill="none" stroke="#1e293b" stroke-width="1"/>
-  <circle r="57" fill="none" stroke="#273449" stroke-width="1"/>
-  <path d="M0-87L75-43L75 43L0 87L-75 43L-75-43Z" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".42"/>
-
-  <g fill="#64748b">
-    <circle cx="0" cy="-87" r="4.5"/>
-    <circle cx="75" cy="-43" r="4.5"/>
-    <circle cx="75" cy="43" r="4.5"/>
-    <circle cx="0" cy="87" r="4.5"/>
-    <circle cx="-75" cy="43" r="4.5"/>
-    <circle cx="-75" cy="-43" r="4.5"/>
-  </g>
-
-  <circle r="24" fill="#0b1530" stroke="#3b82f6" stroke-width="1.5"/>
-  <circle r="6" fill="#60a5fa" filter="url(#glow)"/>
-
-  <circle r="4.5" fill="#f8fafc" filter="url(#glow)">
-    <animateMotion dur="9s" repeatCount="indefinite" path="M0-87L75-43L75 43L0 87L-75 43L-75-43Z"/>
-  </circle>
+<g transform="translate(1037 150)">
+  <circle r="72" fill="#0d1426" stroke="#1e293b"/>
+  <circle r="48" fill="none" stroke="#26334b"/>
+  <circle r="24" fill="#111c35" stroke="#3b82f6"/>
+  <circle r="6" fill="#60a5fa"/>
+  <path d="M0-48L42 24L-42 24Z" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".55"/>
+  <circle cx="0" cy="-48" r="4" fill="#38bdf8"/>
+  <circle cx="42" cy="24" r="4" fill="#8b5cf6"/>
+  <circle cx="-42" cy="24" r="4" fill="#6366f1"/>
 </g>
 </svg>
