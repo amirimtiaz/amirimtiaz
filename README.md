@@ -68,7 +68,7 @@ A product concept built during Capital One's HACU Launchpad to make cross-border
 - Designed an in-app international transfer experience
 - Built the AI-powered **360 Navigator** concept
 - Modeled a 10,000-user pilot and **$48M** in payment volume
-- Earned **2nd place out of 10 teams**
+- Earned **1st place out of 10 teams**
 
 **Focus:** Product Strategy · FinTech · AI · Financial Inclusion
 
