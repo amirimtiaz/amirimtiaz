@@ -1,12 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:172554,100:7c3aed&text=Amir%20Imtiaz&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI-Native%20Product%20Builder%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Technology%20Strategist&descAlignY=58&descSize=17&animation=fadeIn" alt="Amir Imtiaz banner" />
+<img width="100%" src="./assets/header.svg" alt="Amir Imtiaz — AI-Native Technical Builder, Systems Problem Solver, Product Thinker" />
 
-### I build data-driven products that turn complex problems into clear, useful experiences.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-amir-imtiaz.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-imtiaz-flm)
-[![Email](https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirimtiazflm@gmail.com)
+<a href="https://linkedin.com/in/amir-imtiaz-flm"><img src="https://img.shields.io/badge/LinkedIn-Amir_Imtiaz_%E2%80%A2_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Amir Imtiaz on LinkedIn"/></a>
+<a href="mailto:amirimtiazflm@gmail.com"><img src="https://img.shields.io/badge/Gmail-amirimtiazflm%40gmail.com_%E2%80%A2_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Amir Imtiaz"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2300&pause=650&color=67E8F9&center=true&vCenter=true&repeat=true&random=false&width=850&height=45&lines=AI+%2F+ML+Enthusiast;Engineer+%E2%80%A2+Analyst+%E2%80%A2+Manager+%E2%80%94+All+in+One;Turning+Ambiguity+into+Systems;Building+Where+Product%2C+Data%2C+and+AI+Meet;Curious+Mind.+Technical+Hands.+Product+Instincts." alt="Animated roles and interests" />
 
 </div>
 
@@ -25,8 +28,6 @@ amir = {
 ```
 
 I'm a first-generation college student and technical product builder based in Dallas, Texas. I work at the intersection of **product strategy, artificial intelligence, data analytics, and software**, combining customer insight with technical execution to build products that solve real problems.
-
-My experience spans **supply-chain analytics at the North Texas Tollway Authority**, product innovation through **Capital One's HACU Launchpad**, consulting, and frontline healthcare operations. I care most about understanding the problem, finding the signal in the data, and shipping something people can actually use.
 
 ---
 
@@ -79,7 +80,7 @@ A product concept built during Capital One's HACU Launchpad to make cross-border
 
 **Operational data and decision support at NTTA**
 
-Applied analytics to procurement and logistics operations during my Supply Chain Data Analyst internship at the North Texas Tollway Authority, supporting inventory visibility and the Sign Shop transition from Plano to Frisco.
+Applied analytics to procurement and logistics operations during my Data Analyst internship at the North Texas Tollway Authority, supporting inventory visibility and the Sign Shop transition from Plano to Frisco.
 
 **Focus:** Data Analytics · Supply Chain · Inventory Intelligence · Process Improvement
 
@@ -95,10 +96,32 @@ Applied analytics to procurement and logistics operations during my Supply Chain
 
 <table>
 <tr>
-<td width="25%" align="center"><b>NTTA</b><br/><sub>Supply Chain Data Analyst Intern</sub></td>
-<td width="25%" align="center"><b>Capital One</b><br/><sub>HACU Launchpad Fellow</sub></td>
-<td width="25%" align="center"><b>180 Degrees Consulting</b><br/><sub>Associate Product Manager</sub></td>
-<td width="25%" align="center"><b>CVS Health</b><br/><sub>Pharmacy Technician</sub></td>
+<td width="25%" align="center" valign="top">
+<br/>
+<img src="https://www.google.com/s2/favicons?domain=ntta.org&sz=128" width="58" height="58" alt="NTTA logo"/><br/><br/>
+<b>North Texas Tollway Authority</b><br/>
+<sub><b>Data Analyst Intern</b></sub><br/><br/>
+</td>
+<td width="25%" align="center" valign="top">
+<br/>
+<img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=128" width="58" height="58" alt="Capital One logo"/><br/><br/>
+<b>Capital One</b><br/>
+<sub><b>Launchpad Leadership Program Fellow</b></sub><br/>
+<sub>Technology + Business Track</sub><br/><br/>
+</td>
+<td width="25%" align="center" valign="top">
+<br/>
+<img src="https://www.google.com/s2/favicons?domain=180dc.org&sz=128" width="58" height="58" alt="180 Degrees Consulting logo"/><br/><br/>
+<b>180 Degrees Consulting</b><br/>
+<sub><b>Strategy Consultant</b></sub><br/>
+<sub>Project Team Lead</sub><br/><br/>
+</td>
+<td width="25%" align="center" valign="top">
+<br/>
+<img src="https://www.google.com/s2/favicons?domain=cvshealth.com&sz=128" width="58" height="58" alt="CVS Health logo"/><br/><br/>
+<b>CVS Health</b><br/>
+<sub><b>Certified Pharmacy Technician</b></sub><br/><br/>
+</td>
 </tr>
 </table>
 
@@ -106,42 +129,74 @@ Applied analytics to procurement and logistics operations during my Supply Chain
 
 ## 🧰 Technical Toolkit
 
-### Languages & Analysis
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,r,html,css&theme=dark" alt="Python, Java, C++, C, JavaScript, TypeScript, R, HTML and CSS" />
+</p>
 
-### Product, Data & Visualization
+`Python` · `Java` · `C++` · `C` · `JavaScript` · `TypeScript` · `R` · `SQL` · `HTML/CSS`
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Frameworks & Development
 
-### AI, Cloud & Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,fastapi,flask,vite,vercel&theme=dark" alt="React, Next.js, Node.js, Django, FastAPI, Flask, Vite and Vercel" />
+</p>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+`React` · `Next.js` · `Node.js` · `Django` · `FastAPI` · `Flask` · `Vite` · `REST APIs` · `Vercel`
+
+### Data, AI & Visualization
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sklearn,tensorflow,pytorch&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Scikit-learn, TensorFlow and PyTorch" />
+</p>
+
+`Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `Scikit-learn` · `OpenAI` · `PostgreSQL` · `MySQL` · `MongoDB` · `Power BI` · `Tableau` · `Excel`
+
+### Cloud, Tools & Product Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,figma,notion,postman,linux,powershell,vscode,ai,ps&theme=dark" alt="AWS, Azure, Docker, Git, GitHub, Figma, Notion, Postman, Linux, PowerShell, VS Code, Illustrator and Photoshop" />
+</p>
+
+`AWS` · `Azure` · `Docker` · `Git` · `GitHub` · `Figma` · `Adobe` · `Notion` · `Postman` · `Linux` · `Windows Terminal` · `VS Code`
 
 ---
 
-## 📊 GitHub Activity
+## 🧠 My Builder's Operating System
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### 01 · Discover 🔎
+Start with the person, not the feature. Find the unmet need, constraint, or friction hiding beneath the initial request.
+
+</td>
+<td width="25%" valign="top">
+
+### 02 · Decode 📊
+Use data, research, and first-principles thinking to separate the real signal from assumptions and noise.
+
+</td>
+<td width="25%" valign="top">
+
+### 03 · Design 🧩
+Turn insight into a clear system: the user journey, technical architecture, success metrics, and tradeoffs.
+
+</td>
+<td width="25%" valign="top">
+
+### 04 · Deliver 🚀
+Build, test, measure, and improve. A strong idea only matters once it creates a result someone can feel.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amirimtiaz&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=38bdf8&text_color=94a3b8&rank_icon=github" alt="Amir's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirimtiaz&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=94a3b8" alt="Amir's most used languages" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirimtiaz&bg_color=00000000&color=94a3b8&line=8b5cf6&point=38bdf8&area=true&hide_border=true" alt="Amir's contribution graph" />
+`AMBIGUITY` **→** `INSIGHT` **→** `SYSTEM` **→** `IMPACT`
 
 </div>
 
@@ -149,14 +204,16 @@ Applied analytics to procurement and logistics operations during my Supply Chain
 
 ## 🤝 Let's Connect
 
-I'm interested in **associate product management, product strategy, AI, analytics, and technology consulting** — especially opportunities where I can combine product judgment with technical execution.
+I'm drawn to opportunities where **AI, data, and genuine human insight** come together to untangle difficult problems, build intelligent systems, and create meaningful impact at scale.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-amir-imtiaz.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-imtiaz-flm)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirimtiazflm@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-amir-imtiaz.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-imtiaz-flm)
+[![Email](https://img.shields.io/badge/Gmail-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirimtiazflm@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:172554,100:050816" alt="" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amirimtiaz&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
 </div>
