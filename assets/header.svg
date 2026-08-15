@@ -1,43 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Amir Imtiaz — AI-Native Technical Builder, Systems Problem Solver, Product Thinker">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Amir Imtiaz — AI-Native Technical Builder, Systems Problem Solver, Product Thinker">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop stop-color="#030712"/>
-    <stop offset="1" stop-color="#0b1020"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="0" x2="1">
-    <stop stop-color="#38bdf8"/>
-    <stop offset=".55" stop-color="#6366f1"/>
-    <stop offset="1" stop-color="#8b5cf6"/>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#5536a7"/>
+    <stop offset=".5" stop-color="#3957a6"/>
+    <stop offset="1" stop-color="#147aa5"/>
   </linearGradient>
 </defs>
 
-<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
-<rect x="1" y="1" width="1198" height="298" rx="19" fill="none" stroke="#1e293b"/>
+<rect width="1200" height="310" fill="url(#background)"/>
 
-<g transform="translate(78 57)">
-  <text x="0" y="24" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2">HELLO, I'M</text>
+<text x="600" y="122" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800">Amir Imtiaz</text>
 
-  <text x="0" y="101" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-2.5">Amir Imtiaz</text>
+<text x="600" y="174" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">
+  AI-Native Technical Builder · Systems Problem Solver · Product Thinker
+</text>
 
-  <text x="2" y="140" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400">Building intelligent products from insight to impact.</text>
-
-  <rect x="2" y="165" width="620" height="2.5" rx="2" fill="url(#accent)"/>
-
-  <text x="2" y="207" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">AI-Native Technical Builder</text>
-  <text x="244" y="207" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">•</text>
-  <text x="262" y="207" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Systems Problem Solver</text>
-  <text x="494" y="207" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">•</text>
-  <text x="512" y="207" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Product Thinker</text>
-</g>
-
-<g transform="translate(1037 150)">
-  <circle r="72" fill="#0d1426" stroke="#1e293b"/>
-  <circle r="48" fill="none" stroke="#26334b"/>
-  <circle r="24" fill="#111c35" stroke="#3b82f6"/>
-  <circle r="6" fill="#60a5fa"/>
-  <path d="M0-48L42 24L-42 24Z" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".55"/>
-  <circle cx="0" cy="-48" r="4" fill="#38bdf8"/>
-  <circle cx="42" cy="24" r="4" fill="#8b5cf6"/>
-  <circle cx="-42" cy="24" r="4" fill="#6366f1"/>
-</g>
+<path d="M0 238 C205 270 315 211 510 246 C708 281 868 199 1200 236 L1200 310 L0 310Z" fill="#373684" opacity=".9"/>
+<path d="M0 258 C214 213 383 295 601 265 C814 236 993 276 1200 250 L1200 310 L0 310Z" fill="#172e59" opacity=".9"/>
+<path d="M0 280 C208 247 397 278 600 289 C817 300 1020 249 1200 275 L1200 310 L0 310Z" fill="#071120"/>
 </svg>
