@@ -1,21 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Amir Imtiaz — AI-Native Technical Builder, Systems Problem Solver, Product Thinker">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Amir Imtiaz — AI-Native Technical Builder, Systems Problem Solver, Product Thinker">
 <defs>
   <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
-    <stop stop-color="#5536a7"/>
-    <stop offset=".5" stop-color="#3957a6"/>
-    <stop offset="1" stop-color="#147aa5"/>
+    <stop stop-color="#25134f"/>
+    <stop offset=".5" stop-color="#172a58"/>
+    <stop offset="1" stop-color="#073d55"/>
   </linearGradient>
 </defs>
 
-<rect width="1200" height="310" fill="url(#background)"/>
+<rect width="1200" height="250" fill="url(#background)"/>
 
-<text x="600" y="122" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800">Amir Imtiaz</text>
+<text x="600" y="105" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700">Amir Imtiaz</text>
 
-<text x="600" y="174" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">
-  AI-Native Technical Builder · Systems Problem Solver · Product Thinker
-</text>
+<text x="600" y="158" text-anchor="middle" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600">AI-Native Technical Builder · Systems Problem Solver · Product Thinker</text>
 
-<path d="M0 238 C205 270 315 211 510 246 C708 281 868 199 1200 236 L1200 310 L0 310Z" fill="#373684" opacity=".9"/>
-<path d="M0 258 C214 213 383 295 601 265 C814 236 993 276 1200 250 L1200 310 L0 310Z" fill="#172e59" opacity=".9"/>
-<path d="M0 280 C208 247 397 278 600 289 C817 300 1020 249 1200 275 L1200 310 L0 310Z" fill="#071120"/>
+<path d="M0 207 C205 237 347 190 546 216 C751 243 954 180 1200 211 L1200 250 L0 250Z" fill="#31266d" opacity=".92"/>
+<path d="M0 225 C230 191 410 245 625 225 C838 204 1008 231 1200 219 L1200 250 L0 250Z" fill="#0c1a31" opacity=".96"/>
 </svg>
