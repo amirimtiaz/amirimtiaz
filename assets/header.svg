@@ -1,112 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Amir Imtiaz — AI-Native Technical Builder, Systems Problem Solver, Product Thinker">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Amir Imtiaz — AI-Native Technical Builder, Systems Problem Solver, Product Thinker">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop stop-color="#070b17"/>
-    <stop offset=".55" stop-color="#0d1630"/>
-    <stop offset="1" stop-color="#17113b"/>
+    <stop stop-color="#030712"/>
+    <stop offset=".58" stop-color="#080d1c"/>
+    <stop offset="1" stop-color="#100b24"/>
   </linearGradient>
   <linearGradient id="accent" x1="0" x2="1">
-    <stop stop-color="#22d3ee"/>
-    <stop offset=".5" stop-color="#60a5fa"/>
-    <stop offset="1" stop-color="#a78bfa"/>
+    <stop stop-color="#38bdf8"/>
+    <stop offset=".52" stop-color="#6366f1"/>
+    <stop offset="1" stop-color="#8b5cf6"/>
   </linearGradient>
-  <radialGradient id="orb">
-    <stop stop-color="#67e8f9" stop-opacity=".85"/>
-    <stop offset=".22" stop-color="#38bdf8" stop-opacity=".35"/>
-    <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+  <radialGradient id="halo">
+    <stop stop-color="#6366f1" stop-opacity=".2"/>
+    <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
   </radialGradient>
-  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-    <path d="M28 0H0V28" fill="none" stroke="#94a3b8" stroke-opacity=".055"/>
-  </pattern>
-  <filter id="softGlow">
-    <feGaussianBlur stdDeviation="5" result="b"/>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="b"/>
     <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
-  <filter id="shadow">
-    <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#020617" flood-opacity=".55"/>
   </filter>
 </defs>
 
-<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-<rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#334155" stroke-opacity=".9"/>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="#1e293b"/>
 
-<circle cx="1050" cy="55" r="210" fill="#7c3aed" opacity=".08"/>
-<circle cx="20" cy="355" r="190" fill="#0891b2" opacity=".08"/>
+<circle cx="1065" cy="55" r="230" fill="#4f46e5" opacity=".055"/>
+<circle cx="75" cy="345" r="190" fill="#0891b2" opacity=".04"/>
 
-<g transform="translate(68 45)" filter="url(#shadow)">
-  <rect width="760" height="270" rx="22" fill="#0b1224" fill-opacity=".72" stroke="#334155"/>
-  <rect x="1" y="1" width="758" height="268" rx="21" fill="none" stroke="#ffffff" stroke-opacity=".025"/>
-
-  <g transform="translate(28 25)">
-    <rect width="193" height="31" rx="15.5" fill="#082f49" stroke="#0e7490"/>
-    <circle cx="17" cy="15.5" r="5" fill="#22d3ee" filter="url(#softGlow)">
-      <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
+<g transform="translate(72 54)">
+  <g>
+    <circle cx="6" cy="6" r="5" fill="#38bdf8" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/>
     </circle>
-    <text x="31" y="20.5" fill="#a5f3fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">DALLAS, TEXAS · ONLINE</text>
+    <text x="23" y="11" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="2.1">DALLAS, TEXAS · BUILDING AT THE EDGE OF TECHNOLOGY + PEOPLE</text>
   </g>
 
-  <text x="28" y="117" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="-2.2">Amir Imtiaz</text>
-  <text x="31" y="151" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">Building intelligent products from insight to impact.</text>
+  <text x="0" y="104" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="-2.4">Amir Imtiaz</text>
+  <text x="2" y="141" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="500">Building intelligent products from insight to impact.</text>
 
-  <rect x="29" y="174" width="675" height="2.5" rx="2" fill="url(#accent)"/>
+  <rect x="2" y="170" width="658" height="2" rx="1" fill="url(#accent)" opacity=".85"/>
 
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650">
-    <rect x="29" y="198" width="207" height="39" rx="10" fill="#0c2740" stroke="#155e75"/>
-    <text x="47" y="223" fill="#cffafe">AI-Native Technical Builder</text>
+  <text x="2" y="211" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650">AI-Native Technical Builder</text>
+  <circle cx="252" cy="205" r="2.5" fill="#475569"/>
+  <text x="269" y="211" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650">Systems Problem Solver</text>
+  <circle cx="505" cy="205" r="2.5" fill="#475569"/>
+  <text x="522" y="211" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="650">Product Thinker</text>
 
-    <rect x="247" y="198" width="211" height="39" rx="10" fill="#152447" stroke="#334e8a"/>
-    <text x="265" y="223" fill="#dbeafe">Systems Problem Solver</text>
-
-    <rect x="469" y="198" width="159" height="39" rx="10" fill="#271a45" stroke="#5b3d89"/>
-    <text x="487" y="223" fill="#ede9fe">Product Thinker</text>
-  </g>
+  <text x="2" y="250" fill="#475569" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="2">PRODUCT  /  DATA  /  AI  /  ENGINEERING</text>
 </g>
 
-<g transform="translate(1005 178)">
-  <circle r="122" fill="none" stroke="#334155" stroke-width="1"/>
-  <circle r="91" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="4 8"/>
-  <circle r="58" fill="none" stroke="#475569" stroke-width="1"/>
-
-  <g opacity=".65">
-    <path d="M0-122L79-46L112 49L35 111L-70 100L-116 10L-78-93Z" fill="none" stroke="url(#accent)" stroke-width="1.4"/>
-    <path d="M0-58L79-46L35 111L-70 100L-78-93Z" fill="none" stroke="#60a5fa" stroke-opacity=".38"/>
-  </g>
-
-  <circle r="73" fill="url(#orb)" opacity=".28">
-    <animate attributeName="r" values="63;80;63" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values=".18;.38;.18" dur="4s" repeatCount="indefinite"/>
+<g transform="translate(1010 165)">
+  <circle r="118" fill="url(#halo)">
+    <animate attributeName="opacity" values=".55;.9;.55" dur="5s" repeatCount="indefinite"/>
   </circle>
-  <circle r="27" fill="#0b2745" stroke="#38bdf8" stroke-width="2" filter="url(#softGlow)"/>
-  <text y="6" text-anchor="middle" fill="#e0f2fe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">AMIR</text>
+  <circle r="87" fill="none" stroke="#1e293b" stroke-width="1"/>
+  <circle r="57" fill="none" stroke="#273449" stroke-width="1"/>
+  <path d="M0-87L75-43L75 43L0 87L-75 43L-75-43Z" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".42"/>
 
-  <g filter="url(#softGlow)">
-    <circle cx="0" cy="-122" r="7" fill="#22d3ee"/>
-    <circle cx="79" cy="-46" r="7" fill="#60a5fa"/>
-    <circle cx="112" cy="49" r="7" fill="#a78bfa"/>
-    <circle cx="35" cy="111" r="7" fill="#38bdf8"/>
-    <circle cx="-70" cy="100" r="7" fill="#818cf8"/>
-    <circle cx="-116" cy="10" r="7" fill="#22d3ee"/>
-    <circle cx="-78" cy="-93" r="7" fill="#a78bfa"/>
+  <g fill="#64748b">
+    <circle cx="0" cy="-87" r="4.5"/>
+    <circle cx="75" cy="-43" r="4.5"/>
+    <circle cx="75" cy="43" r="4.5"/>
+    <circle cx="0" cy="87" r="4.5"/>
+    <circle cx="-75" cy="43" r="4.5"/>
+    <circle cx="-75" cy="-43" r="4.5"/>
   </g>
 
-  <g fill="#cbd5e1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" font-weight="700">
-    <text x="-18" y="-137">AI</text>
-    <text x="88" y="-56">DATA</text>
-    <text x="121" y="53">CODE</text>
-    <text x="42" y="130">SHIP</text>
-    <text x="-104" y="119">PRODUCT</text>
-    <text x="-157" y="14">INSIGHT</text>
-    <text x="-112" y="-105">SYSTEMS</text>
-  </g>
+  <circle r="24" fill="#0b1530" stroke="#3b82f6" stroke-width="1.5"/>
+  <circle r="6" fill="#60a5fa" filter="url(#glow)"/>
 
-  <circle r="5" fill="#ffffff" filter="url(#softGlow)">
-    <animateMotion dur="8s" repeatCount="indefinite" path="M0-122L79-46L112 49L35 111L-70 100L-116 10L-78-93Z"/>
+  <circle r="4.5" fill="#f8fafc" filter="url(#glow)">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M0-87L75-43L75 43L0 87L-75 43L-75-43Z"/>
   </circle>
-</g>
-
-<g transform="translate(871 321)">
-  <rect width="278" height="22" rx="11" fill="#0f172a" stroke="#334155"/>
-  <text x="139" y="15" text-anchor="middle" fill="#64748b" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" letter-spacing="1.5">PRODUCT × DATA × AI × ENGINEERING</text>
 </g>
 </svg>
