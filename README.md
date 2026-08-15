@@ -2,14 +2,17 @@
 
 <img width="100%" src="./assets/header.svg" alt="Amir Imtiaz — AI-Native Technical Builder, Systems Problem Solver, Product Thinker" />
 
-<br/>
+</div>
 
-<a href="https://linkedin.com/in/amir-imtiaz-flm"><img src="https://img.shields.io/badge/LinkedIn-Amir_Imtiaz_%E2%80%A2_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Amir Imtiaz on LinkedIn"/></a>
-<a href="mailto:amirimtiazflm@gmail.com"><img src="https://img.shields.io/badge/Gmail-amirimtiazflm%40gmail.com_%E2%80%A2_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Amir Imtiaz"/></a>
+## 🌐 Socials:
 
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-imtiaz-flm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirimtiazflm@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=flat&logo=vercel&logoColor=white)](https://portfolio-amir-imtiaz.vercel.app)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2300&pause=650&color=67E8F9&center=true&vCenter=true&repeat=true&random=false&width=850&height=45&lines=AI+%2F+ML+Enthusiast;Engineer+%E2%80%A2+Analyst+%E2%80%A2+Manager+%E2%80%94+All+in+One;Turning+Ambiguity+into+Systems;Building+Where+Product%2C+Data%2C+and+AI+Meet;Curious+Mind.+Technical+Hands.+Product+Instincts." alt="Animated roles and interests" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2600&pause=750&color=CBD5E1&center=true&vCenter=true&repeat=true&width=850&height=48&lines=AI+%2F+ML+Enthusiast;Engineer+%E2%80%A2+Analyst+%E2%80%A2+Manager+%E2%80%94+All+in+One;Turning+Ambiguity+into+Systems;Building+Where+Product%2C+Data%2C+and+AI+Meet;Curious+Mind.+Technical+Hands.+Product+Instincts." alt="Animated roles and interests" />
 
 </div>
 
@@ -104,7 +107,7 @@ Applied analytics to procurement and logistics operations during my Data Analyst
 </td>
 <td width="25%" align="center" valign="top">
 <br/>
-<img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=128" width="58" height="58" alt="Capital One logo"/><br/><br/>
+<img src="./assets/capital-one.svg" width="165" height="62" alt="Capital One logo"/><br/><br/>
 <b>Capital One</b><br/>
 <sub><b>Launchpad Leadership Program Fellow</b></sub><br/>
 <sub>Technology + Business Track</sub><br/><br/>
@@ -118,7 +121,7 @@ Applied analytics to procurement and logistics operations during my Data Analyst
 </td>
 <td width="25%" align="center" valign="top">
 <br/>
-<img src="https://www.google.com/s2/favicons?domain=cvshealth.com&sz=128" width="58" height="58" alt="CVS Health logo"/><br/><br/>
+<img src="./assets/cvs-health.svg" width="165" height="62" alt="CVS Health logo"/><br/><br/>
 <b>CVS Health</b><br/>
 <sub><b>Certified Pharmacy Technician</b></sub><br/><br/>
 </td>
@@ -165,36 +168,13 @@ Applied analytics to procurement and logistics operations during my Data Analyst
 
 ## 🧠 My Builder's Operating System
 
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### 01 · Discover 🔎
-Start with the person, not the feature. Find the unmet need, constraint, or friction hiding beneath the initial request.
-
-</td>
-<td width="25%" valign="top">
-
-### 02 · Decode 📊
-Use data, research, and first-principles thinking to separate the real signal from assumptions and noise.
-
-</td>
-<td width="25%" valign="top">
-
-### 03 · Design 🧩
-Turn insight into a clear system: the user journey, technical architecture, success metrics, and tradeoffs.
-
-</td>
-<td width="25%" valign="top">
-
-### 04 · Deliver 🚀
-Build, test, measure, and improve. A strong idea only matters once it creates a result someone can feel.
-
-</td>
-</tr>
-</table>
-
 <div align="center">
+
+<img width="100%" src="./assets/builder-quest.svg" alt="Animated Builder Quest: Discover, Decode, Design, Deliver" />
+
+<br/>
+
+**Every build is a quest:** understand the person, decode the signal, design the system, and deliver an outcome that matters.
 
 `AMBIGUITY` **→** `INSIGHT` **→** `SYSTEM` **→** `IMPACT`
 
@@ -206,14 +186,16 @@ Build, test, measure, and improve. A strong idea only matters once it creates a 
 
 I'm drawn to opportunities where **AI, data, and genuine human insight** come together to untangle difficult problems, build intelligent systems, and create meaningful impact at scale.
 
+### 🌐 Find Me Online:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir_Imtiaz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-imtiaz-flm)
+[![Email](https://img.shields.io/badge/Email-amirimtiazflm%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirimtiazflm@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6D28D9?style=flat&logo=vercel&logoColor=white)](https://portfolio-amir-imtiaz.vercel.app)
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-amir-imtiaz.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-imtiaz-flm)
-[![Email](https://img.shields.io/badge/Gmail-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirimtiazflm@gmail.com)
+<br/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=amirimtiaz&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=amirimtiaz&style=flat&color=6d28d9&label=Profile+Visitors" alt="Profile visitor counter"/>
 
 </div>
