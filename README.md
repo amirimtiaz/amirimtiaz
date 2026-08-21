@@ -24,7 +24,7 @@
 amir = {
     "focus": ["Product", "Artificial Intelligence", "Data"],
     "education": "Computer Information Systems & Technology + AI",
-    "experience": ["NTTA", "Capital One", "180 Degrees Consulting", "CVS Health"],
+    "experience": ["Capital One", "IMC Trading", "180 Degrees Consulting", "CVS Health"],
     "building": "Meridian — AI-powered recruiting intelligence",
     "mission": "Build technology that creates measurable impact"
 }
@@ -76,21 +76,6 @@ A product concept built during Capital One's HACU Launchpad to make cross-border
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📦 Supply Chain Intelligence
-
-**Operational data and decision support at NTTA**
-
-Applied analytics to procurement and logistics operations during my Data Analyst internship at the North Texas Tollway Authority, supporting inventory visibility and the Sign Shop transition from Plano to Frisco.
-
-**Focus:** Data Analytics · Supply Chain · Inventory Intelligence · Process Improvement
-
-[![Explore Experience](https://img.shields.io/badge/EXPLORE_EXPERIENCE-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-amir-imtiaz.vercel.app/experience)
-
-</td>
-</tr>
 </table>
 
 ---
@@ -99,34 +84,28 @@ Applied analytics to procurement and logistics operations during my Data Analyst
 
 <table>
 <tr>
-<td width="20%" align="center" valign="top">
-<br/>
-<img src="https://www.google.com/s2/favicons?domain=ntta.org&sz=128" width="56" height="56" alt="NTTA logo"/><br/><br/>
-<b>North Texas Tollway Authority</b><br/>
-<sub><b>Data Analyst Intern</b></sub><br/><br/>
-</td>
-<td width="20%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br/>
 <img src="./assets/capital-one.svg" width="155" height="66" alt="Capital One logo"/><br/><br/>
 <b>Capital One</b><br/>
 <sub><b>Launchpad Leadership Program Fellow</b></sub><br/>
 <sub>Technology + Business Track</sub><br/><br/>
 </td>
-<td width="20%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br/>
 <img src="./assets/imc.svg" width="155" height="58" alt="IMC Trading logo"/><br/><br/>
 <b>IMC Trading</b><br/>
 <sub><b>U.S. Chess Academy</b></sub><br/>
 <sub>Qualifier &amp; Finalist</sub><br/><br/>
 </td>
-<td width="20%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br/>
 <img src="https://www.google.com/s2/favicons?domain=180dc.org&sz=128" width="56" height="56" alt="180 Degrees Consulting logo"/><br/><br/>
 <b>180 Degrees Consulting</b><br/>
 <sub><b>Strategy Consultant</b></sub><br/>
 <sub>Project Team Lead</sub><br/><br/>
 </td>
-<td width="20%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br/>
 <img src="./assets/cvs-health.svg" width="155" height="66" alt="CVS Health logo"/><br/><br/>
 <b>CVS Health</b><br/>
